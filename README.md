@@ -47,7 +47,7 @@ ________________________________________
 •	Know when to stop adding. More visuals do not impress – clear answers do.
 •	Freelancing is problem solving first, coding second. Every hour spent on a relationship error was an hour not spent on insights. I learned to ask “Do I need this?” before building it.
 
-# Task 1-logistics-dashboard
+# Task 1- Logistics-dashboard
 dashboard.pdf               (Power BI export)
 video_script.md             (3‑minute presentation script)
 dataset_logistics.xlsx      (raw data)
