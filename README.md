@@ -58,6 +58,34 @@ ________________________________________
   ├── scatter_plot.png     (visual evidence)
   └── dataset_digital_entrepreneurs.xlsx
 
+```text
+## Project Structure
+
+```
+
+.
+├── Task 1 - Logistics Dashboard
+│   ├── dashboard.pdf
+│   │   └── Power BI dashboard export
+│   ├── video_script.md
+│   │   └── 3-minute presentation script
+│   └── dataset_logistics.xlsx
+│       └── Raw logistics dataset
+│
+└── Task 2 - Entrepreneurship Report
+├── regression_report.pdf
+│   └── Full 8-page regression analysis report
+├── regression_output_correct.xlsx
+│   └── Verified regression output
+├── scatter_plot.png
+│   └── Scatter plot visualization
+└── dataset_digital_entrepreneurs.xlsx
+└── Raw dataset for regression analysis
+
+```
+```
+
+
 # Final Word
 This project was not just about finishing two assignments. It was about learning to trust my own verification, communicate clearly under time pressure, and deliver value even when tools failed. I now know that a great analyst is not someone who never makes mistakes – but someone who catches them, fixes them, and tells the story honestly.
 If you are looking for a junior data analyst who can handle messy data, question every output, and present insights with clarity – let’s connect.
