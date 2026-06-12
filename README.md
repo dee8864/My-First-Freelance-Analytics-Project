@@ -48,43 +48,15 @@ ________________________________________
 •	Freelancing is problem solving first, coding second. Every hour spent on a relationship error was an hour not spent on insights. I learned to ask “Do I need this?” before building it.
 
 # Task 1-logistics-dashboard
-  ├── dashboard.pdf               (Power BI export)
-  ├── video_script.md             (3‑minute presentation script)
-  └── dataset_logistics.xlsx      (raw data)
+dashboard.pdf               (Power BI export)
+video_script.md             (3‑minute presentation script)
+dataset_logistics.xlsx      (raw data)
 
 # Task 2- Entrepreneurship-report
-  ├── regression_report.pdf       (full 8‑page analysis)
-  ├── regression_output_correct.xlsx  (verified Excel output)
-  ├── scatter_plot.png     (visual evidence)
-  └── dataset_digital_entrepreneurs.xlsx
-
-```text
-## Project Structure
-
-```
-
-.
-├── Task 1 - Logistics Dashboard
-│   ├── dashboard.pdf
-│   │   └── Power BI dashboard export
-│   ├── video_script.md
-│   │   └── 3-minute presentation script
-│   └── dataset_logistics.xlsx
-│       └── Raw logistics dataset
-│
-└── Task 2 - Entrepreneurship Report
-├── regression_report.pdf
-│   └── Full 8-page regression analysis report
-├── regression_output_correct.xlsx
-│   └── Verified regression output
-├── scatter_plot.png
-│   └── Scatter plot visualization
-└── dataset_digital_entrepreneurs.xlsx
-└── Raw dataset for regression analysis
-
-```
-```
-
+regression_report.pdf       (full 8‑page analysis)
+regression_output_correct.xlsx  (verified Excel output)
+scatter_plot.png     (visual evidence)
+dataset_digital_entrepreneurs.xlsx
 
 # Final Word
 This project was not just about finishing two assignments. It was about learning to trust my own verification, communicate clearly under time pressure, and deliver value even when tools failed. I now know that a great analyst is not someone who never makes mistakes – but someone who catches them, fixes them, and tells the story honestly.
